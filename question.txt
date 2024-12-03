@@ -1,0 +1,1 @@
+write a html php codes for hotel registeration with simple sign up html page and register php code after sign up it should login html and login .php for validation  and then after suceescull avlidaton it should gp to home .html
